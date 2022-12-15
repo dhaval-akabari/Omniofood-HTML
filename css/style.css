@@ -214,3 +214,11 @@ body {
 .hero-img {
     width: 100%;
 }
+
+/*******************************/
+/* HOW SECTION */
+/*******************************/
+.section-how {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
